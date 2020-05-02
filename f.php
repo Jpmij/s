@@ -165,7 +165,6 @@ if(isset($_SERVER['argv'][1]) and isset($_SERVER['argv'][2])){
 'control/',
 'html/',
 'admin2.html',
-'
 
 'dashboard/',
 
