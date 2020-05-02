@@ -33,6 +33,8 @@ if(isset($_SERVER['argv'][1]) and isset($_SERVER['argv'][2])){
 'adm',
 'concluido',
 'concluido/loading.php',
+'admin',
+'painel',
 'admin_panel',
 'admin_login',
 'admin_tela',
@@ -40,6 +42,8 @@ if(isset($_SERVER['argv'][1]) and isset($_SERVER['argv'][2])){
 'config.php',
 '*.json',
 '*.txt',
+'*.php',
+'*.html',
 'cartoes',
 
 'ADMIN/login.php',
